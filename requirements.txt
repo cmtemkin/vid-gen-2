@@ -1,4 +1,5 @@
 streamlit
-openai
-moviepy
+openai>=1.14.1
+moviepy==1.0.3
+imageio-ffmpeg==0.4.9
 python-dotenv
